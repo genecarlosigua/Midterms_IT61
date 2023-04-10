@@ -29,22 +29,22 @@ $table =
                 "imgpath" => [
 
                     "entry" => [
-                        "imgpath_1" => "Tourney_GSET.jpg",
+                        "imgpath_1" => "../img/Tourney_GSET.jpg",
                     ],
 
                     "eunthusiast" => [
 
-                        "imgpath_1" => "Altus_GSET.jpg",
-                        "imgpath_2" => "Acera_GSET.jpg",
-                        "imgpath_3" => "Alivio_GSET.jpeg",
-                        "imgpath_4" => "DeoreXT_GSET.jpg"
+                        "imgpath_1" => "../img/Altus_GSET.jpg",
+                        "imgpath_2" => "../img/Acera_GSET.jpg",
+                        "imgpath_3" => "../img/Alivio_GSET.jpeg",
+                        "imgpath_4" => "../img/DeoreXT_GSET.jpg"
                     ],
                     "professional" => [
-                        "imgpath_1" => "SLX_GSET.jpg",
-                        "imgpath_2" => "DeoreXT_GSET.jpg",
-                        "imgpath_3" => "DeoreXTDI2_GSET.jpg",
-                        "imgpath_4" => "XTR_GSET.jpg",
-                        "imgpath_5" => "XTRDI2.jpg"
+                        "imgpath_1" => "../img/SLX_GSET.jpg",
+                        "imgpath_2" => "../img/DeoreXT_GSET.jpg",
+                        "imgpath_3" => "../img/DeoreXTDI2_GSET.jpg",
+                        "imgpath_4" => "../img/XTR_GSET.jpg",
+                        "imgpath_5" => "../img/XTRDI2_GSET.jpg"
                     ],
 
                 ],
@@ -76,21 +76,21 @@ $table =
                 "imgpath" => [
 
                     "entry" => [
-                        "imgpath_1" => "Claris_GSET.jpg",
-                        "imgpath_2" => "Sora_GSET.jpg",
-                        "imgpath_3" => "Tiagra_GSET.jpg",
+                        "imgpath_1" => "../img/Claris_GSET.jpg",
+                        "imgpath_2" => "../img/Sora_GSET.jpg",
+                        "imgpath_3" => "../img/Tiagra_GSET.jpg",
                     ],
 
                     "eunthusiast" => [
 
-                        "imgpath_1" => "105_GSET.jpg",
-                        "imgpath_2" => "105DI2_GSET.jpeg",
-                        "imgpath_3" => "Ultegra_GSET.jpg",
-                        "imgpath_4" => "UltegraDI2_GSET.jpg",
+                        "imgpath_1" => "../img/105_GSET.jpg",
+                        "imgpath_2" => "../img/105DI2_GSET.jpeg",
+                        "imgpath_3" => "../img/Ultegra_GSET.jpg",
+                        "imgpath_4" => "../img/UltegraDI2_GSET.jpg",
                     ],
                     "professional" => [
-                        "imgpath_1" => "Duraace_GSET.jpg",
-                        "imgpath_2" => "DuraaceDI2_GSET.jpeg",
+                        "imgpath_1" => "../img/Duraace_GSET.jpg",
+                        "imgpath_2" => "../img/DuraaceDI2_GSET.jpeg",
 
                     ],
                 ],
@@ -114,14 +114,14 @@ $table =
                 "imgpath" => [
 
                     "entry" => [
-                        "imgpath_1" => "",
+                        "imgpath_1" => "../img/Saint_GSET.jpg",
                     ],
 
                     "eunthusiast" => [
-                        "imgpath_1" => "Zee_GSET.jpeg",
+                        "imgpath_1" => "../img/Zee_GSET.jpeg",
                     ],
                     "professional" => [
-                        "imgpath_1" => "Saint_GSET.jpg",
+                        "imgpath_1" => "../img/Saint_GSET.jpg"
                     ],
                 ]
             ],
@@ -145,16 +145,16 @@ $table =
                 "imgpath" => [
 
                     "entry" => [
-                        "imgpath_1" => "GRX400_GSET.jpg",
+                        "imgpath_1" => "../img/GRX400_GSET.jpg",
                     ],
 
                     "eunthusiast" => [
 
-                        "imgpath_1" => "GRXRX600_GSET.jpg",
-                        "imgpath_2" => "GRXRX810_GSET.jpg",
+                        "imgpath_1" => "../img/GRXRX600_GSET.jpg",
+                        "imgpath_2" => "../img/GRXRX810_GSET.jpg",
                     ],
                     "professional" => [
-                        "imgpath_1" => "GRXRX815_GSET.jpg",
+                        "imgpath_1" => "../img/GRXRX815_GSET.jpg",
 
                     ],
                 ]
@@ -173,16 +173,20 @@ $table =
                 "professional" => [
                     "model_1" => "Dura-Ace DI2 R9200",
                 ],
-                "entry" => [
-                    "imgpath_1" => "105DI2_GSET.jpeg",
-                ],
 
-                "eunthusiast" => [
-                    "imgpath_1" => "UltegraDI2_GSET.jpg",
-                ],
-                "professional" => [
-                    "imgpath_1" => "DuraaceDI2.jpg",
+                
+                "imgpath" => [
+                    "entry" => [
+                        "imgpath_1" => "../img/105_GSET.jpg",
+                    ],
 
+                    "eunthusiast" => [
+                        "imgpath_1" => "../img/UltegraDI2_GSET.jpg",
+                    ],
+                    "professional" => [
+                        "imgpath_1" => "../img/DuraaceDI2_GSET.jpeg",
+
+                    ],
                 ],
             ],
         ]
